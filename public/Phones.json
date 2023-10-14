@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "brand": "Samsung",
+        "description": "The Samsung Galaxy X1 is a sleek and powerful smartphone with a high-resolution display and advanced camera features.",
+        "price": 599.99,
+        "image_url": "https://www.flashtrend.co.nz/assets/full/Leader-MF-SM-S911BZGEATS.jpg?20230401080927"
+    },
+    {
+        "id": 2,
+        "brand": "Apple",
+        "description": "The Apple iPhone Z2 offers a seamless user experience with its powerful A14 chip and stunning OLED screen.",
+        "price": 699.99,
+        "image_url": "https://nissei.com/media/catalog/product/cache/16a9529cefd63504739dab4fc3414065/f/g/fgbfbgbgfbg_1_1.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Google",
+        "description": "The Google Pixel 5A is known for its exceptional camera capabilities and fast Android updates.",
+        "price": 499.99,
+        "image_url": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Google/Pixel%204XL/71oTy+incwL._SL1500_-800x800.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "OnePlus",
+        "description": "The OnePlus 9 Pro features a high-refresh-rate display and a Snapdragon 888 processor for smooth performance.",
+        "price": 799.99,
+        "image_url": "https://www.custommacbd.com/cdn/shop/products/oneplus-8-5g-12gb-256gb-dual-sim-glow.jpg?v=1613634902"
+    },
+    {
+        "id": 5,
+        "brand": "Sony",
+        "description": "The Sony Xperia 10 is a budget-friendly smartphone with a decent camera and a long-lasting battery.",
+        "price": 349.99,
+        "image_url": "https://cdn11.bigcommerce.com/s-ss31ap/images/stencil/1280x1280/products/7988/38897/3ea22c7e-7745-4a84-b5b5-f69c175bb435_2048x__59220.1649056845.jpg?c=2"
+    },
+    {
+        "id": 6,
+        "brand": "Motorola",
+        "description": "The Motorola Moto G7 is a reliable mid-range phone known for its clean Android experience and affordable price.",
+        "price": 249.99,
+        "image_url": "https://www.mobilephonetechinfo.com/wp-content/uploads/2023/06/Motorola-Edge-30-Fusion-Price-in-USA.jpg"
+    },
+    {
+        "id": 7,
+        "brand": "LG",
+        "description": "The LG V60 ThinQ boasts a dual-screen design and impressive audio quality for multimedia enthusiasts.",
+        "price": 599.99,
+        "image_url": "https://amarprice.com/wp-content/uploads/LG-Velvet-price-in-bangladesh.jpg"
+    },
+    {
+        "id": 8,
+        "brand": "Nokia",
+        "description": "The Nokia 7.2 is a solid choice for those who prefer stock Android and regular software updates.",
+        "price": 299.99,
+        "image_url": "https://www.phoneplacekenya.com/wp-content/uploads/2020/09/Nokia-2.4-b.jpg"
+    },
+    {
+        "id": 9,
+        "brand": "BlackBerry",
+        "description": "The BlackBerry Key3 is a modern take on the iconic physical keyboard design with enhanced security features.",
+        "price": 499.99,
+        "image_url": "https://fdn.gsmarena.com/imgroot/news/17/02/blackberry-keyone-introduced/-728/gsmarena_007.jpg"
+    },
+    {
+        "id": 10,
+        "brand": "Huawei",
+        "description": "The Huawei P40 is known for its impressive camera system and powerful Kirin 990 processor.",
+        "price": 599.99,
+        "image_url": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/phones-20230509/view-all-phones/all-mate50-pro.png"
+    },
+    {
+        "id": 11,
+        "brand": "Oppo",
+        "description": "The Oppo F17 Pro is a stylish and slim smartphone with a focus on photography and fast charging.",
+        "price": 349.99,
+        "image_url": "https://static.gadgetandgear.com/tmp/product/20210826_1629978158_473453.png"
+    },
+    {
+        "id": 12,
+        "brand": "Xiaomi",
+        "description": "The Xiaomi Redmi Note 9 offers excellent value for money with a large display and a big battery.",
+        "price": 229.99,
+        "image_url": "https://smartfit.gr/cdn/shop/products/Xiaomi-Redmi-Note-12-Pro-Plus-Bitch-Surprise-Case-0001.jpg?v=1676558441"
+    }
+]
