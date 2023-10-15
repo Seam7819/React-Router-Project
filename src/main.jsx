@@ -10,6 +10,7 @@ import ErrorPages from './ErrorPages/ErrorPages';
 import Home from './Pages/Home/Home';
 import Favourites from './Pages/Favourites/Favourites';
 import Login from './Pages/Login/Login';
+import PhoneDetails from './PhoneDetails/PhoneDetails';
 
 const router = createBrowserRouter([
   {
@@ -28,6 +29,11 @@ const router = createBrowserRouter([
       {
         path : '/login',
         element : <Login></Login>
+      },
+      {
+        path: '/phones/:id',
+        element : <PhoneDetails></PhoneDetails>,
+        loader : ()=> fetch('/Phones.json')
       }
     ]
   },
