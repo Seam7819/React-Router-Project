@@ -6,7 +6,7 @@ const Cards = ({phone}) => {
 
     return (
         <div>
-            <div className="relative my-20 mx-auto flex w-full max-w-[48rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+            <div className="relative my-20 mx-auto flex w-full max-w-[38rem]  rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
   <div className="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
     <img
       src={image_url}
